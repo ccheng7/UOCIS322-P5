@@ -1,2 +1,4 @@
+arrow 
 flask
+nose
 pymongo
